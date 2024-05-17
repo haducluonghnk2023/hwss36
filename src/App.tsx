@@ -11,6 +11,7 @@ import Hw6 from './components/Hw6'
 import Hw7 from './components/Hw7'
 import Hw9 from './components/Hw9'
 import Hw8 from './components/Hw8'
+import Hw12 from './components/Hw12'
 
 export default function App() {
   return (
@@ -20,13 +21,14 @@ export default function App() {
       <UseContext></UseContext>
       <Hw1></Hw1>
       <Hw2></Hw2>
-      <Hw3></Hw3>
+      <Hw3></Hw3> 
       <Hw4></Hw4>
       <Hw5></Hw5>
       <Hw6></Hw6>
       <Hw7></Hw7>
       <Hw8></Hw8>
       <Hw9></Hw9>
+      <Hw12></Hw12>
     </div>
   )
 }
